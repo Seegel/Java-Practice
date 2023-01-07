@@ -12,6 +12,7 @@ public class DemoLinkedList {
         linkedList.add("Test");
         linkedList.add("Test1");
         var i =9;
+        linkedList.addFirst("Demo");
 
         ArrayList arrayList = new ArrayList<>();
 
